@@ -231,11 +231,11 @@ if(isset($_POST['submit']))   // if button is submit
                         </div>
                         <div class="col-xs-12 col-sm-4 address color-gray">
                             <h5>Address:</h5>
-                            <p>Mahatma Gandhi Salai, Chennai - 600034.</p>
-                            <h5>Call us at: <a href="tel:+914450005500">+91 44 50005500</a></h5></div>
+                            <p>An Khanh, Ninh Kieu, Can Tho</p>
+                            <h5>Call us at: <a href="tel:+914450005500">0355 643 663</a></h5></div>
                         <div class="col-xs-12 col-sm-5 additional-info color-gray">
                             <h5>Who are we?</h5>
-                            <p>Launched in 2021, Our technology platform connects customers, restaurant partners and delivery partners, serving their multiple needs. Customers use our platform to search and discover restaurants, read and write customer generated reviews and view and upload photos, order food delivery, book a table and make payments while dining-out at restaurants.</p>
+                            <p>Launched in 2023, Our technology platform connects customers, restaurant partners and delivery partners, serving their multiple needs. Customers use our platform to search and discover restaurants, read and write customer generated reviews and view and upload photos, order food delivery, book a table and make payments while dining-out at restaurants.</p>
                         </div>
                     </div>
                 </div>
